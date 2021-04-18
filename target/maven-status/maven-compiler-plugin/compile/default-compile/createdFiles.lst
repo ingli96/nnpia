@@ -1,0 +1,6 @@
+org\example\api\CrudService.class
+org\example\api\UserController.class
+org\example\api\UserService.class
+org\example\api\UserModel.class
+org\example\api\UserServiceImplication.class
+org\example\api\Application.class
